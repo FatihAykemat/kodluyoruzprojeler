@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    font-size: 64px;
+}
+
+h3 {
+    color: blue;
+}
+h4 {
+    color: burlywood;
+}
+
+.ulstyle li{
+    list-style: none;
+    list-style-type: none;
+    display: inline;
+    padding-left: 0;
+}
+ul.ulstyle2 {
+    list-style-position: inside;
+    left: 0px;
+}
+
