@@ -1,0 +1,23 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "photo",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
